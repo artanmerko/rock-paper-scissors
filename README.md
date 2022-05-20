@@ -1,4 +1,4 @@
-# rock-paper-scissors
+# JavaScript PROJECT: Rock-Paper-Scissors
 ## *Rock, Paper And Scissors* - ***The Odin Project*** 
 ### [link](https://artanmerko.github.io/rock-paper-scissors/)
 
